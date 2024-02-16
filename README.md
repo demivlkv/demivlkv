@@ -6,7 +6,9 @@
 <a href="mailto:hayashi.demi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
 <h3>Hi, I’m Demi! 👋</h3>
 </div>
-<img src="https://user-images.githubusercontent.com/106700986/194652522-72563e9e-1930-4313-b0f1-ddda0d3003d7.gif" alt="DS" align="right" /> I am a full-stack developer with a passion for technologies. I love to build and design things like web applications, <a href="https://www.tokio-ramen.com/">branding for local businesses</a>, and even <a href="https://cargocollective.com/demihayashi/Propagation">sculptures</a>. When I'm not coding, I'm most likely traveling the world as a flight attendant, taking care of my house plants, hiking, watching true-crime documentaries, or learning new languages like Java and Russian. :3
+<img src="https://user-images.githubusercontent.com/106700986/194652522-72563e9e-1930-4313-b0f1-ddda0d3003d7.gif" alt="DS" align="right" />
+<p>I am a full-stack software engineer living in Los Angeles with a passion for technologies. I enjoy creating and designing various projects, such as web applications, <a href="https://tokio-ramen.netlify.app/" target="_blank" className="home">branding for local businesses</a>, and even <a href="https://cargocollective.com/demihayashi/Propagation" target="_blank" className="home">sculptures</a>. Currently, I provide top-tier web and software solutions at <a href="https://nexalure.com/"  target="_blank" className="home">Nexalure Technologies</a>.</p>
+<p>When I'm not on my computer, I'm most likely traveling the world, playing video games, hiking, watching true-crime documentaries, or learning new languages like Java and Russian. :3</p>
 
 ### My Tech Stack:
 <div align="center">
