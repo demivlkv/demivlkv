@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://linkedin.com/in/demihayashi"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.demihayashi.com"><img src="https://img.shields.io/badge/website-d3f6e9?style=for-the-badge&labelColor=555555&logo=About.me&logoColor=white" /></a>
-<a href="https://instagram.com/hii.demii"><img src="https://img.shields.io/badge/hii.demii-d3f6e9?style=for-the-badge&labelColor=555555&logo=instagram&logoColor=white" /></a>
+<a href="https://gitlab.com/demivlkv"><img src="https://img.shields.io/badge/GitLab-d3f6e9?style=for-the-badge&labelColor=555555&logo=gitlab&logoColor=white" /></a>
 <a href="mailto:hayashi.demi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
 <h3>Hi, I’m Demi! 👋</h3>
 </div>
